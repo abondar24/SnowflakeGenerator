@@ -6,4 +6,4 @@ ktor:
     port: 8080
 
 snowflake:
-  machineId: 1L
+  machineId: 1
